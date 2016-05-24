@@ -1,0 +1,112 @@
+* {
+    font-family: 'Itim', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.day {
+    color: #f57f17;
+    background-color: #f5f5f5;
+    width: 10%;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.month {
+    border: 5px solid #2980b9;
+/*    border-right:  5px solid #2980b9;
+    border-left:  5px solid #2980b9;*/
+    /*padding: 15px;*/
+    background-color: #3498db;
+    color: #ffffff;
+    border-radius: 25px;
+}
+
+/*.numday {
+    background-color: #eeeeee;
+    font-size: 20px;
+    padding: 10px;
+    width: 12.5%;
+}*/
+
+.allday {
+    width: 100%;
+    color: lightblue;
+    /*background-color: black;*/
+    /*font-size: 25px;*/
+    /*display: inline-block;*/
+    /*margin: 10px;*/
+    /*padding: 50px;*/
+    /*border: 10px solid blue;*/
+}
+
+.Su {
+    color: #ff4081;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
+
+.Sa {
+    color: #ff4081;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
+
+.Mo {
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
+
+.Tu {
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
+
+.We {
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
+
+.Th {
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
+
+.Fr {
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    /*border: 1px solid #2c3e50;*/
+    width: 9%;
+    margin: 5px;
+}
